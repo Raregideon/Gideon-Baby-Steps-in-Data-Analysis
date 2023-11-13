@@ -1,8 +1,7 @@
-# PROJECT NAME: Gideon-Baby-Steps-in-Data-Analysis
-
+## Gideon-Baby-Steps-in-Data-Analysis
 
 -----
-# PROJECT OBJECTIVE - Problem Statement
+# Problem Statement
 The Objective of this project is to improve the profit margin of the depicted Company, and to seek new ways of driving sales of products across selected countries in Europe, Central America, and North America, while reducing the associated Cost of Goods Sold (COGS).
 To achieve the above, the following questions were asked and Relationships established:
 1.	Which product recorded the highest number of sales?
