@@ -1,4 +1,4 @@
-## Gideon-Baby-Steps-in-Data-Analysis
+## Financial Sample Analysis
 
 -----
 ### Problem Statement
