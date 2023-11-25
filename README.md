@@ -16,17 +16,17 @@ To achieve the above, the following questions were asked and Relationships estab
 
 
 -------
-### DATA SOURCING
+### Data Sourcing
 The data used for this project was provided as a case study material in the 30 Days of Learning program, powered by MICROSOFT and championed by @theoyinbooke
 
 
 ------
-### DATA CLEANING
+### Data Cleaning
 Data was cleaned and transformed using pivot tables and the Analyze tool in Microsoft Excel, thereby establishing the relationships in form of tables and charts.
 
 
 ------
-### FINDINGS AND RECOMMENDATIONS
+### Findings and Recommendations
 1.The Product 'Paseo' recorded the highest number of sales across the countries/regions. This shows that this product has high level of acceptability and usage, hence the company should give priority to the production of PASEO.
 
 2. Canada as a country has high sales potentials as most of the sales of the Paseo product were recorded from here.
