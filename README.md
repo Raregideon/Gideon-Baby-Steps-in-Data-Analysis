@@ -14,7 +14,6 @@ To achieve the above, the following questions were asked and Relationships estab
 8.	What factors contributed to the sales of products across the countries?
 9.	What factors contributed to the lack of sales of the least sold product?
 
-
 -------
 ### Data Sourcing
 The data used for this project was provided as a case study material in the 30 Days of Learning program, powered by MICROSOFT and championed by @theoyinbooke
